@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+figure{
+  text-align: center;
+}
+
+.navbar {
+  background-color: aquamarine;
+  padding-left: 10px;
+  padding-right: 10px;
+  }
+
+nav {
+  text-align: center;
+}
+
+figcaption {
+font-size: small;
+}
+
+#featured-property p {
+  margin: 0 auto;
+  max-width: 900px;
+  
+}
+
+#featured-property {
+  text-align: center;
+}
+
+
+#details {
+  text-align: center;
+  background-color: brown;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
